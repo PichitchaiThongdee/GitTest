@@ -1,11 +1,11 @@
 import java.util.Scanner;
-
 public class Bank 
 {
     public static void main(String[] args){
         String idManager;
         String passManager;
         int amount;
+        System.out.println("HelloGIt");
         Manager m = new Manager();
         Scanner mID = new Scanner(System.in);
         System.out.println("Setting Manager User");
